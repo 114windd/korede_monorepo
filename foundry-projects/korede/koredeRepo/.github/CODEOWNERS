@@ -1,0 +1,5 @@
+# Contract ownership
+/packages/contracts/ @korede
+
+# Web app ownership
+/apps/web-app/ @korede
